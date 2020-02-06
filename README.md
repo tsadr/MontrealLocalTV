@@ -4,10 +4,10 @@
 
 ------------
 
-| Metric |   |
-| ------------ | ------------ |
-| MAE  |  1.848312 |
-| R-Squared | -0.556113 |
+| Metric  \  Models |   Neural Network | Linear Regressoin | Polynominal Regression |
+| ------------ | ------------ | ------------ | ------------ |
+| MAE  |  1.845284 | 2.33 | 1.88 |
+| R-Squared | 0.546092 | 0.34 | 0.61 |
 
 > Metrics based on test data on Real Information
 
