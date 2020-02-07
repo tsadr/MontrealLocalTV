@@ -4,7 +4,7 @@
 
 ------------
 
-| Metric  \  Models |   Neural Network | Linear Regressoin | Polynominal Regression |
+| Metric  \  Models |   Neural Network | Linear Regression | Polynominal Regression |
 | ------------ | ------------ | ------------ | ------------ |
 | MAE  |  1.845284 | 2.33 | 1.88 |
 | R-Squared | 0.546092 | 0.34 | 0.61 |
